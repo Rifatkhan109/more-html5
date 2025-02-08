@@ -1,0 +1,16 @@
+ nav  > ul > li {
+    display: inline;
+    text-align: justify;
+    margin: 10px;
+
+}
+h3{
+    color: rgb(7, 75, 134);
+}
+nav ul li a{
+    text-decoration: none;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
