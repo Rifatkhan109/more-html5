@@ -1,0 +1,21 @@
+ .parant{
+    
+   padding: 25px;
+    background-color: rgb(255, 72, 0);
+    display: flex;
+    gap:10px;
+    justify-content:space-evenly;
+    height:  300px;
+    align-items: center;
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    flex-wrap: wrap;
+ }
+.child{
+    border: 2px solid  rgb(45, 17, 182);
+    background: aqua;
+    padding: 20px;
+    font-size: 28px;
+    /* margin: 10px; */
+    /* display: inline; */
+}
